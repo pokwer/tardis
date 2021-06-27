@@ -1,0 +1,84 @@
+.. |ZENODO| replace:: kerzendorf_wolfgang_2021_5034859
+
+.. code-block:: bibtex
+
+    @software{kerzendorf_wolfgang_2021_5034859,
+      author       = {Kerzendorf, Wolfgang and
+                      Sim, Stuart and
+                      Vogl, Christian and
+                      Williamson, Marc and
+                      Pássaro, Ezequiel and
+                      Flörs, Andreas and
+                      Camacho, Yssa and
+                      Jančauskas, Vytautas and
+                      Harpole, Alice and
+                      Nöbauer, Ulrich and
+                      Lietzau, Stefan and
+                      Mishin, Mikhail and
+                      Tsamis, Fotis and
+                      Boyle, Aoife and
+                      Shingles, Luke and
+                      Gupta, Vaibhav and
+                      Desai, Karan and
+                      Klauser, Michael and
+                      Beaujean, Frederik and
+                      Suban-Loewen, Adam and
+                      Heringer, Epson and
+                      Barna, Barnabás and
+                      Nayak U, Ashwin and
+                      Gautam, Gaurav and
+                      Kumar, Atul and
+                      Kharkar, Atharwa and
+                      Yap, Kevin and
+                      Dasgupta, Debajyoti and
+                      Volodin, Dmitry and
+                      Sandler, Morgan and
+                      k, chaitanya and
+                      Patra, Nilesh and
+                      Singh Rathore, Parikshit and
+                      Patel, Pratik and
+                      Sharma, Sampark and
+                      Gupta, Suyash and
+                      Wahi, Ujjwal and
+                      Aggarwal, Yash and
+                      Sarafina, Nance and
+                      Kowalski, Nathan and
+                      Sofiatti, Caroline and
+                      Selsing, Jonatan and
+                      Talegaonkar, Chinmay and
+                      Yu, Jenny and
+                      Brar, Antreev and
+                      Singh, Sourav and
+                      Jain, Rinkle and
+                      Floers, Andreas and
+                      Reichenbach, John and
+                      Mishra, Sashank and
+                      Rajagopalan, Srinath and
+                      Magee, Mark and
+                      Livneh, Ran and
+                      Arya, Atharva and
+                      Alam, Arib and
+                      Sondhi, Dhruv and
+                      Eguren, Jordi and
+                      Bentil, Laud and
+                      Savel, Arjun and
+                      Bylund, Tomas and
+                      Eweis, Youssef and
+                      Reinecke, Martin and
+                      O'Brien, Jack and
+                      Gillanders, James and
+                      Varanasi, Kaushik and
+                      Patel, Maryam and
+                      Barbosa, Talytha and
+                      Smith, Isaac and
+                      Singhal, Jaladh and
+                      Cawley, Kevin and
+                      Fullard, Andrew},
+      title        = {tardis-sn/tardis: TARDIS v3.0.dev4019},
+      month        = jun,
+      year         = 2021,
+      publisher    = {Zenodo},
+      version      = {v3.0.dev4019},
+      doi          = {10.5281/zenodo.5034859},
+      url          = {https://doi.org/10.5281/zenodo.5034859}
+    }
